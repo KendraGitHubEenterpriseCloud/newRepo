@@ -53,3 +53,4 @@ Adding new line 3
 Adding new line 4
 Adding new line 5
 Adding new line 6
+Adding new line 7
