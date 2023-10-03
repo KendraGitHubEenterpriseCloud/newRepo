@@ -1,7 +1,7 @@
 
 set -ex
 
-for i in {2..3}
+for i in {2..15000}
 do
     echo  "Adding new line $i">> test_file.txt
     git add .
